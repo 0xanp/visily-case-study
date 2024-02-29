@@ -1,0 +1,500 @@
+user_id,role,user_days_in_visily_count,user_country,company_type,company_employee_count,total_team_members_invited_to_workspace_count,is_current_paying_user
+6935,analyst,343,Hungary,manufacturing,11-50,0,NO
+6735,product_manager,8,India,hospitality,1001-5000,0,NO
+5336,analyst,7,United States,software,201-500,0,NO
+6277,analyst,3,China,manufacturing,11-50,0,NO
+9104,product_manager,16,United States,manufacturing,11-50,5,YES
+2732,designer,1,Turkey,transportation,201-500,0,NO
+8477,designer,53,Australia,software,51-200,0,NO
+5105,product_manager,47,Algeria,financial_services,11-50,0,YES
+6948,developer,14,Australia,manufacturing,11-50,0,NO
+8331,developer,15,Japan,manufacturing,1001-5000,0,NO
+8994,developer,184,China,transportation,11-50,0,NO
+6357,designer,19,Spain,transportation,5001-10000,0,YES
+8901,developer,89,Bulgaria,software,51-200,0,YES
+2126,product_manager,27,Kazakhstan,transportation,1-10,6,YES
+1082,designer,13,India,ecommerce,11-50,0,YES
+9238,analyst,377,Luxembourg,ecommerce,11-50,11,NO
+8272,product_manager,9,Ethiopia,transportation,11-50,6,NO
+603,product_manager,86,India,ecommerce,11-50,0,NO
+9212,analyst,20,India,manufacturing,1-10,0,NO
+9870,product_manager,223,Oman,ecommerce,11-50,10,NO
+1215,product_manager,5,Costa Rica,manufacturing,11-50,0,NO
+7925,designer,95,Luxembourg,transportation,11-50,0,NO
+3122,developer,5,Japan,transportation,1001-5000,0,NO
+9213,designer,367,Japan,ecommerce,201-500,5,YES
+8325,designer,17,Costa Rica,transportation,1-10,0,YES
+7413,product_manager,22,United Kingdom,hospitality,11-50,0,NO
+6333,product_manager,366,Spain,transportation,11-50,0,NO
+2250,developer,103,China,ecommerce,11-50,0,NO
+331,developer,211,China,transportation,11-50,0,NO
+5735,designer,292,Germany,transportation,11-50,0,NO
+677,designer,15,Cuba,manufacturing,11-50,0,NO
+7312,product_manager,131,Germany,software,11-50,5,YES
+3739,designer,20,Japan,transportation,201-500,11,NO
+333,analyst,18,United States,manufacturing,11-50,0,NO
+7979,product_manager,164,United States,ecommerce,11-50,7,YES
+2760,analyst,1,South Korea,transportation,11-50,0,NO
+6013,analyst,231,Turkey,hospitality,1-10,0,NO
+348,product_manager,2,Japan,software,11-50,0,NO
+1425,designer,5,United Kingdom,software,11-50,0,NO
+1929,product_manager,10,Germany,financial_services,1-10,0,NO
+1493,product_manager,22,India,manufacturing,11-50,0,NO
+1417,analyst,16,Greece,software,11-50,0,NO
+3372,designer,16,Australia,transportation,1-10,0,YES
+6248,analyst,15,India,manufacturing,11-50,0,NO
+8578,product_manager,18,Switzerland,transportation,1001-5000,0,NO
+5110,analyst,20,United States,software,11-50,0,YES
+3424,designer,187,Venezuela,financial_services,51-200,0,YES
+730,designer,7,Spain,hospitality,11-50,0,NO
+5958,product_manager,17,Netherlands,ecommerce,11-50,0,NO
+4482,product_manager,14,Germany,manufacturing,1-10,0,NO
+415,analyst,10,Angola,transportation,11-50,0,NO
+5681,designer,7,India,ecommerce,201-500,0,NO
+646,designer,1,China,transportation,11-50,0,NO
+8252,designer,9,Italy,manufacturing,1001-5000,0,NO
+4639,developer,3,Japan,ecommerce,11-50,0,NO
+3361,designer,4,United States,manufacturing,201-500,0,NO
+3404,developer,3,India,ecommerce,11-50,8,NO
+7442,analyst,6,Dominican Republic,transportation,11-50,3,NO
+2126,product_manager,16,South Korea,financial_services,5001-10000,0,YES
+8632,analyst,16,Japan,transportation,51-200,0,NO
+7783,product_manager,25,United States,software,11-50,0,NO
+9983,product_manager,16,Spain,hospitality,5001-10000,0,NO
+1057,product_manager,22,Netherlands,software,1-10,6,NO
+8128,developer,171,Germany,ecommerce,1001-5000,0,NO
+7457,analyst,2,Germany,financial_services,11-50,0,YES
+729,product_manager,6,Dominican Republic,hospitality,11-50,4,NO
+1527,analyst,4,China,manufacturing,51-200,11,NO
+3388,product_manager,14,Qatar,transportation,11-50,0,YES
+2768,designer,167,Germany,ecommerce,1-10,0,YES
+6626,analyst,17,India,transportation,11-50,0,NO
+3754,product_manager,94,Ukraine,transportation,11-50,0,NO
+9568,product_manager,13,India,financial_services,11-50,3,YES
+1490,developer,288,Spain,ecommerce,501-1000,7,NO
+9344,designer,15,Guatemala,ecommerce,201-500,0,NO
+6597,designer,9,Cuba,hospitality,501-1000,9,NO
+2826,product_manager,22,Germany,financial_services,11-50,0,YES
+712,product_manager,18,India,hospitality,201-500,6,NO
+595,developer,4,India,manufacturing,5001-10000,0,NO
+7754,developer,18,South Korea,transportation,51-200,0,NO
+6306,product_manager,355,Hungary,transportation,11-50,4,YES
+6400,analyst,15,Germany,financial_services,201-500,0,NO
+8575,analyst,388,Dominican Republic,software,11-50,0,NO
+9382,analyst,376,Japan,software,11-50,0,NO
+6740,analyst,11,Slovakia,transportation,11-50,0,NO
+4755,analyst,18,Japan,transportation,11-50,0,NO
+7486,product_manager,22,United Kingdom,software,201-500,0,NO
+8046,designer,11,India,transportation,51-200,0,YES
+1138,product_manager,451,Germany,manufacturing,1001-5000,0,NO
+4773,analyst,11,Qatar,ecommerce,11-50,0,YES
+5923,analyst,6,India,transportation,1-10,0,NO
+5872,product_manager,8,China,ecommerce,11-50,0,NO
+5775,analyst,5,Ukraine,transportation,201-500,0,NO
+4561,developer,5,Uzbekistan,transportation,51-200,0,NO
+4097,product_manager,38,Kenya,transportation,1-10,0,NO
+591,developer,13,Greece,software,5001-10000,0,NO
+7730,analyst,19,United States,hospitality,201-500,0,NO
+4903,product_manager,9,Bulgaria,software,11-50,0,NO
+4272,developer,3,Puerto Rico,transportation,11-50,0,NO
+5734,analyst,359,China,transportation,11-50,0,NO
+2626,designer,124,Germany,financial_services,11-50,0,NO
+2347,product_manager,13,Belgium,software,51-200,3,NO
+3635,developer,13,Japan,software,11-50,0,YES
+8689,developer,144,Uzbekistan,transportation,11-50,0,NO
+864,analyst,81,Luxembourg,hospitality,1-10,0,NO
+631,analyst,20,Mexico,financial_services,1-10,0,NO
+3843,product_manager,24,China,ecommerce,11-50,9,NO
+3521,analyst,16,Switzerland,ecommerce,501-1000,0,NO
+8681,developer,15,Japan,transportation,11-50,0,NO
+3669,designer,344,Ethiopia,transportation,11-50,0,NO
+6930,product_manager,78,United Kingdom,manufacturing,201-500,0,YES
+7544,designer,4,China,hospitality,1-10,0,NO
+9635,developer,40,Algeria,transportation,1-10,0,YES
+5510,developer,271,India,transportation,1-10,0,NO
+2975,analyst,249,New Zealand,transportation,11-50,0,NO
+5435,product_manager,12,United States,software,11-50,7,NO
+6754,analyst,9,Costa Rica,hospitality,11-50,9,NO
+2691,product_manager,13,Guatemala,transportation,11-50,0,YES
+913,product_manager,18,Canada,hospitality,501-1000,0,YES
+2390,designer,12,Japan,ecommerce,11-50,0,NO
+5519,designer,8,United States,manufacturing,201-500,0,NO
+2234,analyst,17,Australia,transportation,51-200,0,NO
+267,product_manager,280,India,financial_services,51-200,0,NO
+8273,designer,1,Germany,ecommerce,11-50,7,YES
+3087,analyst,98,United States,ecommerce,11-50,0,NO
+4157,designer,309,Germany,software,1-10,0,NO
+8180,designer,12,Turkey,transportation,11-50,11,NO
+8018,analyst,20,Puerto Rico,software,5001-10000,0,YES
+9724,product_manager,7,Germany,transportation,11-50,0,NO
+839,developer,228,Hungary,ecommerce,1-10,10,NO
+3122,developer,236,New Zealand,ecommerce,11-50,0,NO
+9632,developer,13,Japan,transportation,51-200,0,NO
+4281,designer,4,Netherlands,financial_services,51-200,0,NO
+6810,designer,3,Kuwait,transportation,1-10,0,YES
+3905,developer,16,United Kingdom,hospitality,1-10,0,NO
+70,designer,346,India,manufacturing,11-50,9,YES
+6736,designer,294,Netherlands,ecommerce,11-50,0,NO
+1641,product_manager,7,Costa Rica,financial_services,201-500,0,NO
+232,product_manager,374,Slovakia,transportation,1001-5000,0,YES
+991,product_manager,22,Japan,manufacturing,11-50,0,YES
+7311,developer,17,Venezuela,ecommerce,11-50,0,NO
+5465,developer,232,Turkey,software,11-50,0,NO
+8907,analyst,7,Poland,transportation,11-50,0,NO
+927,analyst,7,China,transportation,11-50,9,NO
+3479,analyst,225,Brazil,manufacturing,5001-10000,0,NO
+1381,designer,334,New Zealand,financial_services,11-50,7,NO
+8044,designer,9,Costa Rica,manufacturing,1001-5000,0,NO
+7763,product_manager,133,Kazakhstan,hospitality,11-50,0,NO
+3305,product_manager,2,United States,ecommerce,11-50,0,YES
+1477,developer,16,United States,transportation,1-10,0,NO
+145,product_manager,3,Oman,transportation,1-10,0,NO
+5582,product_manager,465,China,transportation,11-50,5,NO
+5993,analyst,2,Germany,ecommerce,1001-5000,0,NO
+3566,designer,88,Netherlands,transportation,11-50,0,YES
+3742,designer,4,Kazakhstan,transportation,1-10,0,NO
+2927,analyst,230,Slovakia,transportation,1-10,9,NO
+8236,developer,340,Germany,ecommerce,501-1000,4,YES
+3820,designer,365,Costa Rica,ecommerce,11-50,0,NO
+2454,product_manager,18,Germany,manufacturing,501-1000,5,NO
+5301,product_manager,216,Russia,transportation,501-1000,0,NO
+8062,analyst,11,Algeria,transportation,51-200,0,YES
+6474,product_manager,6,Spain,transportation,11-50,7,NO
+9793,analyst,18,Morocco,manufacturing,5001-10000,0,NO
+3332,product_manager,16,Brazil,hospitality,11-50,10,YES
+6200,analyst,16,Taiwan,software,501-1000,0,NO
+5511,analyst,3,Kazakhstan,financial_services,1-10,0,NO
+7781,designer,15,United States,ecommerce,11-50,0,NO
+9470,product_manager,13,China,ecommerce,11-50,0,NO
+8687,designer,13,Oman,manufacturing,11-50,0,NO
+4803,analyst,20,China,transportation,11-50,0,NO
+7586,analyst,14,China,hospitality,1-10,0,YES
+277,product_manager,108,South Korea,software,1-10,0,YES
+3445,analyst,11,Ethiopia,transportation,11-50,0,NO
+2603,designer,183,Kenya,ecommerce,11-50,11,NO
+735,product_manager,28,Angola,hospitality,5001-10000,0,NO
+8442,product_manager,499,Saudi Arabia,hospitality,1001-5000,0,NO
+7828,product_manager,3,China,software,11-50,0,NO
+3436,designer,260,United States,transportation,501-1000,8,YES
+207,developer,188,United States,software,11-50,0,NO
+8478,developer,7,Japan,transportation,1-10,5,NO
+3805,designer,4,United States,manufacturing,5001-10000,11,NO
+5476,product_manager,18,Russia,manufacturing,11-50,0,NO
+1725,product_manager,360,Argentina,ecommerce,1-10,8,NO
+2763,analyst,15,Japan,hospitality,51-200,10,NO
+2327,analyst,269,Canada,software,11-50,0,NO
+4313,developer,4,Ethiopia,transportation,11-50,0,NO
+6892,designer,11,Switzerland,ecommerce,1001-5000,0,YES
+11,designer,2,Morocco,ecommerce,11-50,0,NO
+8716,designer,129,Poland,hospitality,51-200,6,NO
+4642,designer,341,India,manufacturing,1-10,0,NO
+1488,designer,6,Uzbekistan,transportation,11-50,0,NO
+6613,developer,1,Qatar,manufacturing,11-50,0,NO
+6430,analyst,12,United States,ecommerce,11-50,0,NO
+9860,product_manager,12,Indonesia,software,11-50,10,YES
+4193,analyst,75,United States,software,11-50,0,NO
+2335,analyst,14,Australia,manufacturing,11-50,0,YES
+7468,product_manager,17,Kenya,ecommerce,51-200,0,NO
+5809,analyst,343,India,software,51-200,0,NO
+3278,designer,256,Spain,transportation,11-50,9,YES
+5815,developer,10,China,software,11-50,0,YES
+3813,analyst,17,China,hospitality,11-50,0,NO
+8984,product_manager,14,Taiwan,transportation,1-10,7,NO
+1398,designer,345,India,financial_services,201-500,0,NO
+2006,developer,257,Ukraine,software,11-50,6,NO
+5862,product_manager,9,India,software,1-10,0,NO
+1411,designer,172,Costa Rica,manufacturing,1-10,0,NO
+1522,analyst,147,Germany,software,11-50,0,NO
+3272,analyst,2,Slovakia,transportation,11-50,0,YES
+535,product_manager,20,India,ecommerce,1001-5000,0,NO
+4080,analyst,11,Costa Rica,financial_services,11-50,2,NO
+242,product_manager,166,Germany,ecommerce,11-50,10,NO
+8173,developer,14,Taiwan,ecommerce,501-1000,0,NO
+3936,developer,343,Japan,manufacturing,11-50,2,NO
+8348,developer,8,Germany,ecommerce,501-1000,0,NO
+8228,analyst,367,Slovakia,ecommerce,1001-5000,0,NO
+7175,analyst,350,Luxembourg,software,11-50,0,NO
+826,product_manager,12,Germany,transportation,51-200,0,YES
+48,product_manager,308,Japan,manufacturing,1001-5000,4,NO
+1452,designer,2,Costa Rica,software,51-200,0,YES
+2460,developer,4,Cuba,ecommerce,501-1000,0,YES
+5924,product_manager,44,Saudi Arabia,hospitality,11-50,0,NO
+4147,product_manager,12,Greece,hospitality,1-10,0,YES
+924,product_manager,13,Luxembourg,transportation,11-50,9,NO
+9837,designer,131,Costa Rica,ecommerce,11-50,0,NO
+131,analyst,259,Slovakia,ecommerce,51-200,0,NO
+8791,product_manager,20,Switzerland,software,501-1000,0,NO
+3165,designer,17,India,financial_services,1-10,7,NO
+4339,product_manager,22,Greece,software,11-50,8,YES
+8104,designer,1,Ireland,transportation,201-500,0,NO
+6284,product_manager,114,Taiwan,manufacturing,1-10,11,NO
+8431,analyst,11,Guatemala,manufacturing,11-50,0,NO
+7504,analyst,10,Indonesia,software,201-500,0,NO
+2315,product_manager,4,United States,software,11-50,0,NO
+5162,product_manager,516,Uzbekistan,ecommerce,51-200,0,NO
+8746,developer,261,Sweden,software,1001-5000,0,NO
+3594,product_manager,8,Ecuador,transportation,51-200,11,NO
+2718,analyst,7,Indonesia,hospitality,1-10,0,NO
+1881,designer,12,Argentina,ecommerce,201-500,6,NO
+3253,designer,337,Germany,manufacturing,51-200,0,NO
+3997,developer,72,Dominican Republic,manufacturing,11-50,0,NO
+449,analyst,386,Kazakhstan,hospitality,11-50,0,NO
+2847,developer,19,China,ecommerce,11-50,3,NO
+4067,designer,11,United States,transportation,11-50,0,NO
+3976,developer,2,Taiwan,manufacturing,11-50,0,YES
+8605,analyst,16,Germany,transportation,11-50,0,YES
+7520,developer,14,Morocco,ecommerce,201-500,0,YES
+1864,product_manager,12,Germany,transportation,51-200,11,NO
+3528,product_manager,211,Ethiopia,financial_services,11-50,0,YES
+3089,analyst,17,Spain,ecommerce,201-500,9,YES
+1157,analyst,182,Guatemala,ecommerce,51-200,0,NO
+6763,developer,4,Spain,financial_services,501-1000,0,NO
+4650,analyst,12,China,hospitality,11-50,0,NO
+1730,product_manager,10,Argentina,transportation,11-50,7,YES
+1380,analyst,9,Switzerland,ecommerce,51-200,0,NO
+6706,product_manager,77,Costa Rica,ecommerce,11-50,0,YES
+558,designer,3,Cuba,software,11-50,0,NO
+470,designer,12,Japan,financial_services,51-200,0,NO
+6207,analyst,6,Taiwan,transportation,501-1000,0,NO
+2529,product_manager,23,Spain,transportation,1001-5000,3,NO
+8541,analyst,265,Oman,hospitality,1-10,0,NO
+1262,analyst,319,Oman,software,11-50,0,NO
+2449,analyst,8,Ethiopia,transportation,11-50,0,NO
+6154,developer,1,Japan,transportation,1-10,0,NO
+7027,product_manager,14,Uzbekistan,ecommerce,51-200,0,NO
+7508,product_manager,20,Qatar,software,1-10,8,YES
+2449,analyst,336,Ethiopia,financial_services,11-50,0,NO
+5963,analyst,312,Saudi Arabia,manufacturing,11-50,0,NO
+9173,analyst,15,Sweden,ecommerce,11-50,10,NO
+9366,analyst,12,India,ecommerce,5001-10000,0,NO
+4007,analyst,5,Germany,transportation,11-50,0,NO
+1265,developer,17,Greece,manufacturing,501-1000,0,NO
+9830,product_manager,448,Argentina,software,1001-5000,6,YES
+3051,analyst,4,United States,transportation,501-1000,0,NO
+3056,analyst,1,Japan,transportation,11-50,0,NO
+6036,developer,20,Brazil,manufacturing,201-500,0,YES
+106,product_manager,20,Germany,ecommerce,11-50,0,YES
+5384,analyst,336,South Korea,software,11-50,0,YES
+1143,product_manager,178,India,ecommerce,11-50,0,NO
+587,analyst,12,Guatemala,transportation,11-50,0,YES
+3870,developer,14,Germany,ecommerce,201-500,0,NO
+7274,product_manager,22,Luxembourg,transportation,11-50,0,YES
+111,analyst,13,United States,manufacturing,11-50,0,NO
+8688,product_manager,214,Luxembourg,ecommerce,11-50,5,NO
+3580,developer,4,India,ecommerce,1-10,0,NO
+7550,analyst,332,Kazakhstan,manufacturing,11-50,0,NO
+4493,product_manager,17,Germany,software,5001-10000,3,YES
+6813,analyst,371,Bulgaria,manufacturing,11-50,0,NO
+8556,product_manager,323,United States,hospitality,1-10,10,YES
+1638,designer,189,Japan,transportation,1-10,0,NO
+8090,product_manager,26,Japan,software,5001-10000,6,NO
+1620,analyst,199,Algeria,hospitality,51-200,0,NO
+7450,analyst,6,China,transportation,11-50,0,NO
+7921,developer,5,Japan,hospitality,11-50,2,NO
+4960,product_manager,24,China,transportation,11-50,0,NO
+1589,analyst,10,Puerto Rico,software,51-200,5,NO
+8084,product_manager,438,Bulgaria,transportation,11-50,2,NO
+8329,analyst,10,United States,transportation,1-10,0,YES
+6616,designer,106,United States,hospitality,11-50,0,NO
+8798,developer,19,Germany,software,11-50,0,YES
+2028,product_manager,5,Greece,software,11-50,0,NO
+8677,analyst,13,China,transportation,11-50,0,NO
+6621,product_manager,271,Spain,financial_services,51-200,9,NO
+7233,developer,17,Japan,transportation,201-500,0,NO
+8368,product_manager,12,Japan,transportation,51-200,0,YES
+8589,product_manager,4,Spain,software,1-10,7,NO
+956,product_manager,20,China,ecommerce,51-200,0,YES
+4729,developer,118,Angola,ecommerce,1001-5000,0,NO
+936,developer,384,Ecuador,transportation,51-200,0,NO
+461,designer,6,Algeria,manufacturing,1-10,0,YES
+7558,designer,18,Slovakia,hospitality,11-50,10,YES
+6690,analyst,276,Japan,ecommerce,1001-5000,0,NO
+5959,analyst,6,Japan,ecommerce,501-1000,0,YES
+1851,product_manager,185,Canada,software,1001-5000,3,YES
+1238,designer,65,Germany,financial_services,1-10,8,NO
+1029,designer,364,Dominican Republic,transportation,1001-5000,0,NO
+2555,developer,33,China,transportation,501-1000,0,YES
+5916,analyst,8,Guatemala,ecommerce,1-10,0,NO
+832,product_manager,25,Oman,transportation,201-500,0,NO
+5481,product_manager,23,Belgium,transportation,1-10,4,NO
+6802,product_manager,5,Sweden,ecommerce,1-10,10,YES
+97,analyst,16,Brazil,software,1001-5000,0,NO
+3869,designer,152,Qatar,transportation,1-10,0,NO
+333,designer,1,China,transportation,11-50,0,NO
+1188,designer,174,Germany,financial_services,5001-10000,0,NO
+4089,product_manager,7,Hungary,ecommerce,201-500,3,NO
+333,designer,12,Germany,transportation,1001-5000,0,NO
+1959,analyst,12,Japan,transportation,201-500,5,NO
+5203,developer,20,Netherlands,manufacturing,11-50,8,NO
+4350,analyst,8,Switzerland,software,51-200,7,NO
+1121,analyst,15,Poland,ecommerce,5001-10000,10,NO
+5084,developer,48,Morocco,hospitality,1-10,0,NO
+9528,designer,4,Saudi Arabia,manufacturing,501-1000,0,NO
+3864,designer,14,Guatemala,ecommerce,11-50,0,NO
+8732,analyst,13,Spain,financial_services,1-10,0,NO
+4639,product_manager,26,Kenya,ecommerce,201-500,4,NO
+5831,analyst,15,China,ecommerce,1-10,0,NO
+2712,product_manager,145,United States,ecommerce,5001-10000,11,NO
+7379,analyst,304,Canada,software,11-50,0,NO
+1242,product_manager,4,Japan,software,1001-5000,8,NO
+6542,developer,19,Puerto Rico,transportation,5001-10000,11,NO
+7088,product_manager,10,Japan,ecommerce,11-50,7,NO
+7259,product_manager,12,India,manufacturing,11-50,0,NO
+7916,designer,173,Germany,transportation,51-200,0,NO
+4125,analyst,388,Argentina,transportation,201-500,0,NO
+1869,designer,9,China,transportation,51-200,0,NO
+3007,analyst,332,Bulgaria,software,11-50,0,NO
+9443,product_manager,21,Poland,manufacturing,1-10,0,NO
+7364,designer,1,Ireland,ecommerce,201-500,0,NO
+4553,designer,52,France,financial_services,51-200,0,NO
+9528,analyst,20,India,transportation,5001-10000,7,NO
+9936,product_manager,7,Belgium,ecommerce,1-10,0,NO
+2952,developer,2,South Korea,financial_services,1001-5000,0,NO
+6467,designer,1,Costa Rica,manufacturing,11-50,0,YES
+9317,product_manager,493,China,financial_services,201-500,0,NO
+8663,analyst,18,China,transportation,201-500,0,NO
+4300,designer,120,India,transportation,11-50,7,YES
+499,analyst,1,India,manufacturing,11-50,0,NO
+4154,analyst,1,China,ecommerce,1001-5000,0,NO
+8925,product_manager,17,Kazakhstan,ecommerce,11-50,0,NO
+5863,product_manager,5,Germany,transportation,501-1000,0,NO
+3285,analyst,343,China,ecommerce,1001-5000,10,NO
+633,product_manager,5,United States,ecommerce,11-50,0,NO
+9906,analyst,18,Germany,financial_services,11-50,0,YES
+554,product_manager,113,Germany,hospitality,51-200,0,NO
+3805,analyst,3,Japan,ecommerce,11-50,0,YES
+3365,product_manager,259,United Kingdom,manufacturing,501-1000,9,NO
+6758,designer,157,Japan,ecommerce,11-50,11,YES
+9807,analyst,20,Japan,hospitality,1-10,4,NO
+9606,analyst,3,Germany,hospitality,11-50,0,NO
+1891,designer,4,Japan,software,11-50,8,NO
+9976,analyst,18,Germany,software,1001-5000,0,NO
+764,product_manager,13,Japan,hospitality,1001-5000,0,NO
+6527,analyst,233,Brazil,hospitality,1001-5000,0,YES
+7353,product_manager,356,United States,transportation,11-50,0,NO
+1059,designer,268,Argentina,transportation,201-500,5,YES
+2649,analyst,8,Algeria,manufacturing,11-50,6,NO
+7712,product_manager,91,Brazil,ecommerce,11-50,0,NO
+2792,product_manager,8,Kuwait,transportation,1-10,3,NO
+7857,analyst,13,Ethiopia,financial_services,1-10,0,NO
+4964,analyst,20,India,ecommerce,201-500,6,YES
+2946,developer,186,Switzerland,transportation,11-50,9,NO
+6584,developer,57,Germany,transportation,11-50,0,NO
+9621,designer,17,United Kingdom,financial_services,11-50,0,NO
+3341,designer,300,India,software,201-500,0,NO
+9909,product_manager,24,Japan,financial_services,1-10,0,NO
+1955,designer,124,France,software,11-50,0,NO
+8742,product_manager,18,Japan,financial_services,11-50,0,NO
+5060,designer,7,Bulgaria,transportation,1-10,0,YES
+4802,analyst,400,India,manufacturing,5001-10000,0,YES
+6795,analyst,3,Japan,transportation,1001-5000,0,NO
+3440,analyst,19,Germany,software,501-1000,10,NO
+5111,designer,358,Dominican Republic,financial_services,11-50,0,NO
+1002,analyst,8,Guatemala,transportation,201-500,0,NO
+7056,product_manager,343,Switzerland,transportation,51-200,0,NO
+3262,analyst,3,Oman,hospitality,11-50,0,NO
+5434,product_manager,8,Turkey,transportation,1-10,6,NO
+862,product_manager,89,China,ecommerce,11-50,11,NO
+3896,designer,14,Japan,transportation,11-50,0,NO
+7134,designer,11,Canada,manufacturing,1001-5000,0,NO
+4501,product_manager,6,China,transportation,11-50,0,YES
+7626,analyst,340,Guatemala,ecommerce,11-50,10,NO
+9439,analyst,12,India,transportation,51-200,0,YES
+1933,product_manager,23,France,transportation,11-50,0,NO
+1760,designer,398,Indonesia,hospitality,11-50,0,NO
+1494,designer,56,United States,ecommerce,1-10,0,YES
+8527,analyst,14,United States,transportation,11-50,0,YES
+8065,designer,54,Angola,manufacturing,11-50,0,NO
+1622,product_manager,67,Slovakia,transportation,51-200,0,NO
+6357,product_manager,13,India,software,11-50,10,YES
+4160,product_manager,494,Netherlands,transportation,1-10,9,NO
+7384,product_manager,21,Russia,software,5001-10000,0,NO
+4661,designer,10,Russia,transportation,1-10,0,YES
+1416,designer,14,Germany,ecommerce,5001-10000,5,NO
+2462,analyst,13,Ireland,software,51-200,0,YES
+7925,designer,14,Qatar,software,11-50,5,YES
+9475,analyst,8,France,financial_services,11-50,0,NO
+5007,analyst,68,United States,software,11-50,0,NO
+8946,product_manager,400,Australia,hospitality,11-50,0,YES
+9388,designer,17,United Kingdom,transportation,1-10,0,NO
+7277,product_manager,10,South Korea,transportation,11-50,11,NO
+6271,developer,282,United Kingdom,transportation,11-50,0,NO
+1622,product_manager,11,China,transportation,11-50,6,NO
+3096,analyst,170,India,financial_services,11-50,6,NO
+2679,developer,9,Germany,transportation,51-200,0,NO
+4030,product_manager,18,United States,manufacturing,11-50,8,YES
+8057,analyst,222,Guatemala,transportation,11-50,0,NO
+235,analyst,3,Poland,software,11-50,0,NO
+8373,analyst,11,India,transportation,11-50,0,NO
+1207,analyst,296,Japan,ecommerce,1001-5000,0,NO
+2894,designer,13,India,ecommerce,1-10,0,NO
+2557,designer,345,India,software,11-50,6,NO
+8471,product_manager,11,Poland,transportation,5001-10000,4,NO
+7434,product_manager,242,Ethiopia,software,201-500,8,NO
+9506,developer,1,China,transportation,11-50,6,NO
+502,analyst,265,India,software,5001-10000,0,NO
+5067,product_manager,320,Switzerland,manufacturing,11-50,0,NO
+2115,designer,130,Cuba,ecommerce,11-50,11,NO
+4507,analyst,358,Japan,ecommerce,1001-5000,0,YES
+4639,designer,233,Germany,ecommerce,11-50,5,YES
+5323,product_manager,14,China,software,501-1000,8,NO
+5138,designer,394,United States,transportation,1-10,0,NO
+6634,product_manager,16,India,financial_services,11-50,3,NO
+7742,analyst,17,Germany,transportation,11-50,0,NO
+1793,analyst,305,Indonesia,financial_services,11-50,0,NO
+2690,analyst,142,Saudi Arabia,transportation,51-200,0,NO
+2169,designer,20,Bulgaria,ecommerce,1-10,3,NO
+6410,analyst,8,Luxembourg,transportation,11-50,0,NO
+7028,developer,1,China,transportation,1-10,0,NO
+1158,product_manager,5,United States,hospitality,1-10,9,YES
+7503,designer,268,India,transportation,1-10,0,YES
+3136,designer,11,Ecuador,software,1-10,0,NO
+4602,developer,6,Taiwan,transportation,501-1000,5,YES
+2991,product_manager,424,United States,hospitality,11-50,6,YES
+5712,analyst,225,Bulgaria,hospitality,501-1000,0,NO
+1986,designer,14,India,transportation,11-50,0,NO
+2605,designer,16,Mexico,ecommerce,51-200,0,NO
+4571,product_manager,12,China,ecommerce,501-1000,9,NO
+8090,analyst,19,Dominican Republic,software,11-50,3,YES
+3654,designer,2,Qatar,hospitality,11-50,0,NO
+2388,designer,166,Taiwan,software,11-50,0,NO
+7641,designer,8,Taiwan,software,1-10,9,NO
+3455,designer,1,Saudi Arabia,software,11-50,0,YES
+8545,analyst,18,Germany,transportation,11-50,0,NO
+4879,designer,68,Japan,software,11-50,0,NO
+2633,analyst,6,Japan,software,1-10,0,NO
+7759,designer,14,Indonesia,manufacturing,201-500,0,YES
+9754,product_manager,342,Japan,financial_services,201-500,0,NO
+9152,designer,17,Oman,software,11-50,0,NO
+4362,product_manager,517,Ukraine,transportation,1-10,0,NO
+4025,analyst,2,Japan,transportation,201-500,0,NO
+1347,designer,202,Costa Rica,transportation,5001-10000,5,NO
+3082,product_manager,414,Qatar,financial_services,1-10,8,NO
+8003,developer,113,China,transportation,501-1000,3,NO
+7980,analyst,251,United States,manufacturing,5001-10000,0,NO
+1165,analyst,20,Dominican Republic,software,51-200,0,NO
+3910,product_manager,16,China,transportation,201-500,10,YES
+5976,analyst,9,Qatar,financial_services,1001-5000,0,NO
+7851,designer,13,Hungary,manufacturing,11-50,0,YES
+1542,designer,7,Slovakia,financial_services,1-10,0,NO
+7336,product_manager,11,China,hospitality,1-10,6,NO
+4454,designer,140,Japan,transportation,201-500,0,NO
+7784,product_manager,485,Taiwan,transportation,11-50,0,NO
+5789,developer,14,United States,transportation,1-10,0,NO
+7334,analyst,32,United States,manufacturing,11-50,0,YES
+1562,designer,2,United States,ecommerce,11-50,6,NO
+3066,designer,12,Algeria,manufacturing,11-50,0,YES
+3051,product_manager,19,United States,ecommerce,201-500,7,YES
+5355,designer,15,Venezuela,ecommerce,501-1000,0,YES
+8009,analyst,3,Germany,ecommerce,1001-5000,0,NO
+1922,designer,4,India,financial_services,1-10,0,NO
+9265,designer,11,Canada,ecommerce,1-10,9,NO
+6732,analyst,392,Puerto Rico,manufacturing,51-200,0,YES
+4920,product_manager,248,Russia,ecommerce,11-50,7,NO
+3042,analyst,5,Puerto Rico,transportation,11-50,0,NO
+7318,analyst,349,Germany,financial_services,11-50,0,YES
+4231,developer,284,Venezuela,ecommerce,11-50,0,NO
+2899,designer,12,Belgium,software,51-200,0,NO
+197,developer,40,Netherlands,transportation,11-50,0,NO
+5231,developer,13,China,transportation,11-50,0,YES
+3473,designer,57,Kazakhstan,ecommerce,11-50,0,NO
